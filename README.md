@@ -9,7 +9,7 @@ A classic Tic Tac Toe game build in [React](https://reactjs.org/)
 - ***HP always moves first (for now)***
 
 Once the HP put a X, the app calculates a random number used as a index for a empty cell and makes the C put an O.
-This procces will be reapeated until the app finds a ***winner*** or the game finish with a ***draw***
+This procces will be repeated until the app finds a ***winner*** or the game finish with a ***draw***
 
 **How to run**
 
